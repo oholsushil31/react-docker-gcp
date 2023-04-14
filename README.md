@@ -1,6 +1,6 @@
 Watch the demo at https://youtu.be/GIM5irN4Ix0
 
-# Getting Started
+# Getting Started.
 
 Clone the project:
 
